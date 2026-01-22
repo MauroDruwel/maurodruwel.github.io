@@ -1,0 +1,278 @@
+[
+  {
+    "date": "28/05/2023",
+    "title": "Nerdland Festival",
+    "items": [
+      { "type": "image", "src": "./assets/20230527_153312.jpg", "style": "object-position:25% 0%;" },
+      { "type": "image", "src": "./assets/20230527_153935.jpg", "style": "object-position:25% 0%;" },
+      { "type": "image", "src": "./assets/20230527_152521.jpg", "style": "object-position:25% 0%;" }
+    ]
+  },
+  {
+    "date": "24/12/2022",
+    "title": "Radio 2 - Kerstinterview",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/F2B_iHC4HDs" },
+      { "type": "image", "src": "./assets/IMG20221224101831.jpg", "style": "object-position:25% 0%;" }
+    ]
+  },
+  {
+    "date": "26/05/2022",
+    "title": "The Mailbox Checker in de ALLERLAATSTE Cooke & Verhulst Show!",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/SLg6HXb02mk" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/hJ0y4VO2Gic" },
+      { "type": "image", "src": "./assets/20220526_234705.jpeg", "style": "object-position:25% 0%;" }
+    ]
+  },
+  {
+    "date": "30/04/2022 - 01/05/2022",
+    "title": "Maker Faire 2022",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/pYa5LqB5gy8" },
+      { "type": "audio", "src": "./assets/Radio2.mp3" },
+      { "type": "image", "src": "./assets/20220501_101236.jpeg", "style": "object-position:100% 0%;" },
+      { "type": "image", "src": "./assets/20220503_172843.png", "alt": "bron De Weekbode", "style": "object-position:0% 40%;" },
+      { "type": "image", "src": "./assets/VRTNWS.png", "alt": "bron VRT NWS", "style": "object-position:50% 0%;" },
+      { "type": "image", "src": "./assets/20220501_181235.jpeg", "style": "object-position:100% 0%;" }
+    ]
+  },
+  {
+    "date": "27/01/2022",
+    "title": "Speaker on the annual gathering of Belgium's digital leaders",
+    "items": [
+      { "type": "image", "src": "./assets/cionet.png", "alt": "bron CIONET", "style": "object-position:50% 10%;" },
+      { "type": "image", "src": "./assets/cionet-cartoon.jpg", "alt": "bron CIONET", "style": "object-position:50% 10%;" }
+    ]
+  },
+  {
+    "date": "28/11/2021",
+    "title": "Dag van de Wetenschap",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/uaAmCuNvI0k" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/q1ycdbPux2o" }
+    ]
+  },
+  {
+    "date": "",
+    "title": "Proud to be Whadda Maker & Ambassador",
+    "items": [
+      { "type": "image", "src": "./assets/224160222551213749383344327302977509918223n.jpg", "alt": "bron Whadda", "style": "object-position:50% 10%;" },
+      { "type": "image", "src": "./assets/WhaddySafeGate.jpg", "alt": "bron Whadda", "style": "object-position:50% 10%;" },
+      { "type": "image", "src": "./assets/LeerProgrammerenMetMauro.jpg", "alt": "bron Whadda", "style": "object-position:50% 10%;" }
+    ]
+  },
+  {
+    "date": "02/2021 - 10/2021",
+    "title": "Opleiding FabZero IT voor makers",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/qJ7bixu8yz8" },
+      { "type": "image", "src": "./assets/20211002_144858.jpg", "alt": "bron FabZero", "style": "object-position:20% 80%;" },
+      { "type": "image", "src": "./assets/20210919_140749.jpg", "alt": "bron FabZero", "style": "object-position:20% 80%;" },
+      { "type": "image", "src": "./assets/20211002_160530.jpg", "alt": "bron FabZero", "style": "object-position:20% 80%;" },
+      { "type": "image", "src": "./assets/20211002_201525.jpg", "alt": "bron FabZero", "style": "object-position:50% 50%;" },
+      { "type": "image", "src": "./assets/signal-2021-10-02-202039.jpg", "alt": "bron FabZero", "style": "object-position:100% 0%;" }
+    ]
+  },
+  {
+    "date": "19/06/2021",
+    "title": "MNM Marathonradio",
+    "items": [
+      { "type": "image", "src": "./assets/20210619_162909.jpg", "style": "object-position:50% 10%;" },
+      { "type": "audio", "src": "/assets/MNM-PAUZEMOBIEL.mp3" }
+    ]
+  },
+  {
+    "date": "26/04/2021",
+    "title": "Smart Medicine Faire en LockDownLamp in De Cooke & Verhulst Show",
+    "items": [
+      { "type": "image", "src": "./assets/IMG-20210427-WA0000.jpg", "alt": "bron De Cooke & Verhulst Show", "style": "object-position:10% 90%;" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/iHpxGib6eJg" }
+    ]
+  },
+  {
+    "date": "02/01/2021",
+    "title": "De 21 jongeren van 2021",
+    "items": [
+      { "type": "image", "src": "./assets/HLN-2021.png", "alt": "bron HLN", "style": "object-position:10% 90%;" }
+    ]
+  },
+  {
+    "date": "29/12/2020",
+    "title": "20 van 2020 Het anderhalve meter artikel🤖",
+    "items": [
+      { "type": "image", "src": "./assets/HLN-Artikel.png", "alt": "bron HLN", "style": "object-position:10% 1%;" }
+    ]
+  },
+  {
+    "date": "14/12/2020",
+    "title": "Radio 1 De Wereld van Sofie",
+    "items": [
+      { "type": "image", "src": "./assets/DeWereldVanSofie.png", "alt": "bron Radio 1", "style": "object-position:10% 10%;" },
+      { "type": "audio", "src": "./assets/Radio1.mp3" }
+    ]
+  },
+  {
+    "date": "27/11/2020",
+    "title": "Slotshow Nspire 2020 by Telenet Business",
+    "items": [
+      { "type": "image", "src": "./assets/nspire2020.png", "alt": "bron Telenet", "style": "object-position:10% 10%;" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/JFWSCi9je3A" }
+    ]
+  },
+  {
+    "date": "08/10/2020",
+    "title": "Safety Shark en Car:K★ in Gert Late Night",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/Xn463rNeFQ8" }
+    ]
+  },
+  {
+    "date": "02/09/2020",
+    "title": "Zomer Challenge Clinimakers - Safety Shark",
+    "items": [
+      { "type": "image", "src": "./assets/safety-shark.jpg", "alt": "bron Clinimakers", "style": "object-position:10% 10%;" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/UixHlJ16HmM" }
+    ]
+  },
+  {
+    "date": "23/06/2020",
+    "title": "Technopolis Challenge - LockDownLamp Tutorial",
+    "items": [
+      { "type": "image", "src": "./assets/technopolis.jpg", "alt": "bron Technopolis", "style": "object-position:10% 10%;" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/OQrcxV1L8mk" }
+    ]
+  },
+  {
+    "date": "17/05/2020",
+    "title": "Coolest Projects 2020 (in virtuele modus)",
+    "items": [
+      { "type": "image", "src": "./assets/coolestprojects-2020-v4.gif", "alt": "bron CoderDojo Belgium", "style": "object-position:10% 10%;" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/vYkZsPQwryY" }
+    ]
+  },
+  {
+    "date": "27/02/2020",
+    "title": "MNM De ochtendshow",
+    "items": [
+      { "type": "image", "src": "./assets/mauro_en_sander.jpg", "alt": "bron MNM", "style": "object-position:10% 10%;" },
+      { "type": "image", "src": "./assets/mauro_en_sander_2.jpg", "alt": "bron MNM", "style": "object-position:10% 10%;" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/d-U895nhoHc" }
+    ]
+  },
+  {
+    "date": "17/02/2020",
+    "title": "Het Grote Krantenartikel",
+    "items": [
+      { "type": "image", "src": "./assets/IMG_0453.jpg", "alt": "bron HLN", "style": "object-position:10% 10%;" }
+    ]
+  },
+  {
+    "date": "07/02/2020",
+    "title": "Gala van Ingelmunster",
+    "items": [
+      { "type": "image", "src": "./assets/galaIngelmunster.png", "alt": "bron Ingelmunster", "style": "object-position:10% 2%;" },
+      { "type": "image", "src": "./assets/Gala1.jpg", "alt": "bron Ingelmunster", "style": "object-position:10% 2%;" }
+    ]
+  },
+  {
+    "date": "14/01/2020",
+    "title": "Karrewiet",
+    "items": [
+      { "type": "image", "src": "./assets/Annotation2020-01-14185957.png", "alt": "VRT Karrewiet", "style": "object-position:10% 10%;" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/fX_-SXPaQrE" }
+    ]
+  },
+  {
+    "date": "30/12/2019",
+    "title": "Nerdland Makertalk Podcast",
+    "items": [
+      { "type": "image", "src": "./assets/E04MauroDruwel.jpg", "alt": "bron Nerdland Makertalk", "style": "object-position:10% 10%;" },
+      { "type": "audio", "src": "./assets/04MauroDruwel.mp3" }
+    ]
+  },
+  {
+    "date": "21/12/2019",
+    "title": "De Warmste Makerspace met #TeamScheire i.s.m. iMagineLab",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/lR69u-M3DkA" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/KMtOd02om8U" },
+      { "type": "image", "src": "./assets/EMTcisGXUAA5Rzs.jpg", "alt": "bron iMagineLab", "style": "object-position:30% 30%;" }
+    ]
+  },
+  {
+    "date": "20/11/2019",
+    "title": "Lancering app VR Wonderwater i.s.m. JEF",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/ZmpP8krFtME" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/6iAHBGfgsok" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/hlK0U-E7vvM" },
+      { "type": "image", "src": "./assets/Aantekening2019-11-27143946.png", "alt": "bron HLN", "style": "object-position:10% 10%;" },
+      { "type": "image", "src": "./assets/HetNieuwsblad.png", "alt": "bron Het Nieuwsblad", "style": "object-position:5% 5%;" },
+      { "type": "image", "src": "./assets/GazetVanAntwerpen.jpg", "alt": "bron Gazet Van Antwerpen", "style": "object-position:40% 40%;" }
+    ]
+  },
+  {
+    "date": "10/10/2019",
+    "title": "CM Leef & Blits",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/IFrVRpPHkpg" },
+      { "type": "image", "src": "./assets/CM.png", "alt": "bron CM Leef Magazine", "style": "object-position:50% 50%;" },
+      { "type": "image", "src": "./assets/Blits.jpg", "alt": "bron Blits Magazine", "style": "object-position:30% 30%;" }
+    ]
+  },
+  {
+    "date": "25/06/2019",
+    "title": "Hackathon Team Scheire",
+    "items": [
+      { "type": "image", "src": "./assets/HTS01.jpg", "alt": "Team Scheire @ Technopolis", "style": "object-position:50% 50%;" },
+      { "type": "image", "src": "./assets/HTS02.jpg", "alt": "Team Scheire @ Technopolis", "style": "object-position:50% 50%;" },
+      { "type": "image", "src": "./assets/IMG_20190828_155241.jpg", "alt": "Team Scheire @ Technopolis", "style": "object-position:50% 50%;" }
+    ]
+  },
+  {
+    "date": "14/06/2019",
+    "title": "Coderdojo Clinimakers",
+    "items": [
+      { "type": "facebook", "src": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCoderDojoBelgiumvzw%2Fposts%2F1286533744842814" },
+      { "type": "image", "src": "./assets/destoel.jpg", "alt": "bron Ingelmunster Info Magazine", "style": "object-position:80% 20%;" },
+      { "type": "image", "src": "./assets/Hypno.jpg", "style": "object-position:50% 50%;" }
+    ]
+  },
+  {
+    "date": "05/05/2019",
+    "title": "Maker Faire 2019",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/wlkY2BJ31R8" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/aVifzMuuJLg" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/kgbcJyUz7y8" },
+      { "type": "image", "src": "./assets/MakerFaire1.jpg", "alt": "bron HLN", "style": "object-position:20% 80%;" },
+      { "type": "image", "src": "./assets/MakerFaire2.jpg", "alt": "bron Het Nieuwsblad", "style": "object-position:50% 50%;" },
+      { "type": "image", "src": "./assets/MakerFaire3.jpg", "alt": "bron De Weekbode", "style": "object-position:100% 0%;" }
+    ]
+  },
+  {
+    "date": "27/04/2019",
+    "title": "Coolest Projects 2019",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/laJHInLFQZU" },
+      { "type": "youtube", "src": "https://www.youtube.com/embed/AjJ_tAQjGts" }
+    ]
+  },
+  {
+    "date": "17/11/2018",
+    "title": "DojoCon",
+    "items": [
+      { "type": "image", "src": "./assets/DojoCon1.jpg", "alt": "bron MagPi Magazine", "style": "object-position:80% 20%;" },
+      { "type": "image", "src": "./assets/DsY1m80XoAUwuuH.jpg", "alt": "bron Het Nieuwsblad", "style": "object-position:50% 50%;" }
+    ]
+  },
+  {
+    "date": "22/04/2018",
+    "title": "Coolest Projects 2018",
+    "items": [
+      { "type": "youtube", "src": "https://www.youtube.com/embed/D8V7C7bMXwc" },
+      { "type": "image", "src": "./assets/CP20181.jpg", "alt": "bron HLN", "style": "object-position:10% 90%;" }
+    ]
+  }
+]
