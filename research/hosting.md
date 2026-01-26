@@ -27,4 +27,4 @@ Once configured, the deployment was smooth and "easy peasy!"
 ![alt text](<Schermafbeelding 2026-01-24 135003.png>)
 
 # Conclusion
-You can find the detailed speed results in the research folder. While the data suggests it should be faster, the real benefit for me is the peace of mind that comes with having my entire ecosystem in one place.
+You can find the detailed speed results in this folder. While the data suggests it should be faster, the real benefit for me is the peace of mind that comes with having my entire ecosystem in one place.
