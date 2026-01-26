@@ -1,5 +1,5 @@
 # Hosting
-This website is currently hosted on GitHub Pages. The reason is simple: it is easy, reliable, and free.
+This website was currently hosted on GitHub Pages. The reason is simple: it is easy, reliable, and free.
 
 # Curiosity
 Years ago, I hosted this website on a Raspberry Pi. Eventually, I discovered GitHub Pages and learned how to connect it to a custom domain. 
