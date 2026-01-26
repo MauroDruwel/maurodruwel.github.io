@@ -1,28 +1,30 @@
 # Hosting
-Hi, this website is currenlty hosted on GitHub Pages.
-Reason: it's easy, and free.
+This website is currently hosted on GitHub Pages. The reason is simple: it is easy, reliable, and free.
 
 # Curiosity
-Years ago, I set up this website on a raspberry pi. After that I learned about github pages and learned how to connect it with a custom domain.
-But around a year ago, I discovered cloudflare. Right now, I have everything hosted with cloudflared tunnels etc. Except this website, which is still on github pages.
-So I thought, why not move it to cloudflare pages, or even better alternatives? We need to dig deeper. XD
+Years ago, I hosted this website on a Raspberry Pi. Eventually, I discovered GitHub Pages and learned how to connect it to a custom domain. 
+
+About a year ago, I discovered Cloudflare. Currently, I have almost everything hosted using `cloudflared` tunnels and other Cloudflare services, except for this website, which still lives on GitHub Pages. I thought, "Why not move it to Cloudflare Pages, or even explore better alternatives?" It was time to dig deeper.
+
 ![alt text](image.png)
 
 # Speeeeeeedddd 🚤
-Github pages is quite fast, escpecially because i previously hosted on a raspberry pi.
-So we need to do some speed tests before moving to something else.
-According to [some online speed test](https://bejamas.com/compare/cloudflare-pages-vs-github-pages),
+GitHub Pages is quite fast, especially compared to my old Raspberry Pi setup. However, before committing to a move, I wanted to run some speed tests.
+
+According to [this comparison by Bejamas](https://bejamas.com/compare/cloudflare-pages-vs-github-pages), Cloudflare Pages is significantly faster, especially for users outside the US.
+
 ![alt text](image-1.png)
-The cloudflare pages are a lot faster, especialy outside the US.
-So let's test it ourselves :)
-I used https://www.debugbear.com/ for website speed test.
+
+I decided to run my own tests using [DebugBear](https://www.debugbear.com/) to see how they compared in my specific use case.
 
 # Moving to Cloudflare Pages
-After seeing the speed test results, I decided to move my website to cloudflare pages.
-The process was quite simple, I just had to connect my github repository to cloudflare pages and deploy it.
+After reviewing the speed test results, I decided to migrate my website to Cloudflare Pages. The process was straightforward: I simply connected my GitHub repository to the Cloudflare Pages dashboard and deployed it.
+
 ![alt text](image-2.png)
-After that, easy peasy!
+
+Once configured, the deployment was smooth and "easy peasy!"
+
 ![alt text](<Schermafbeelding 2026-01-24 135003.png>)
 
 # Conclusion
-In the research folder, you will find the speed results, It should be faster, honestly it's just the thing in my mind where everything is now in the same ecosystem ;)
+You can find the detailed speed results in the research folder. While the data suggests it should be faster, the real benefit for me is the peace of mind that comes with having my entire ecosystem in one place.
