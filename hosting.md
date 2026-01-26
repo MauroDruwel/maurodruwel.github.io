@@ -15,10 +15,14 @@ According to [some online speed test](https://bejamas.com/compare/cloudflare-pag
 ![alt text](image-1.png)
 The cloudflare pages are a lot faster, especialy outside the US.
 So let's test it ourselves :)
-I used https://www.dotcom-tools.com/ (you need to be company for some reason, so i signed up with my maurodruwel.be email lol) for website speed test, web server speed test and ping speed test.
-Here are the results for github pages:
+I used https://www.debugbear.com/ for website speed test.
 
 # Moving to Cloudflare Pages
 After seeing the speed test results, I decided to move my website to cloudflare pages.
 The process was quite simple, I just had to connect my github repository to cloudflare pages and deploy it.
 ![alt text](image-2.png)
+After that, easy peasy!
+![alt text](<Schermafbeelding 2026-01-24 135003.png>)
+
+# Conclusion
+In the research folder, you will find the speed results, It should be faster, honestly it's just the thing in my mind where everything is now in the same ecosystem ;)
